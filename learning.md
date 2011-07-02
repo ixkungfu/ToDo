@@ -39,6 +39,8 @@ Learning 学习
 - **Full Search**
     1. Sphinx
     2. Solr
+    3. [Xapian](http://xapian.org/)
+        - 豆瓣
 - **Message Queue**
     1. RabbitMQ
 
