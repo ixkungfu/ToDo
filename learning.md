@@ -54,6 +54,7 @@ Learning 学习
 ## Books
 - **《黑客与画家》**
 - **《编程珠玑》**
+- **《JavaScript 高级程序设计2》**
 
 ## Subjects
 - **Math**
