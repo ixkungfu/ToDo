@@ -18,6 +18,6 @@ Living 生活
 ## 目标:
 
 ### 2011年:
-    1. **找一个对的人**
-    2. MacBookPro 13"
-    3. <del>HTC Android Phone -- 06-17, 入手 HTC G10</del>
+1. **找一个对的人**
+2. MacBookPro 723 15" -- 09-11
+3. <del>HTC Android Phone -- 06-17, 入手 HTC G10</del>
